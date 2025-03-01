@@ -1,1 +1,8 @@
-Đây là nội dung mới mà bạn muốn cập nhật vào file l.txt
+1|a
+2|b
+3|c
+4|c
+5|a
+6|b
+7|c
+8|a
